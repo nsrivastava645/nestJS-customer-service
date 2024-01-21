@@ -1,5 +1,3 @@
-// customer-service/src/customer/customer.controller.ts
-
 import {
   Controller,
   Post,
